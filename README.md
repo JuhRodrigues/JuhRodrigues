@@ -1,9 +1,16 @@
+
 ## Olá, eu sou a Júlia! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ### Sobre mim
 
 - 👨‍🎓 Estudante de Análise e Dsenvolvimento de Sistemas
 - 🎯 Procurando oportunidades de estágio na área e crescer profissionalmente
+
+<div>
+  <a href="https://github.com/JuhRodrigues">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarodrigues&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Skills:
 <p align="center">
@@ -14,6 +21,8 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
        
 </p>
@@ -33,3 +42,4 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:linkedin.com/in/júlia-rodrigues-108926219">
     </a>
 </p>
+
