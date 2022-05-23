@@ -22,6 +22,8 @@
           
   
   <img align="center" alt="Juh-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> 
+  
+  <img align="center" alt="Juh-Sales" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" /> 
 
 </div>
   
